@@ -1,0 +1,6 @@
+[submodule "book-store-frontend"]
+	path = book-store-frontend
+	url = https://github.com/nao2522004/book-store-frontend.git
+[submodule "book-store-backend"]
+	path = book-store-backend
+	url = https://github.com/nao2522004/book-store-backend.git
